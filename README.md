@@ -1,0 +1,2 @@
+# distribgb
+ Binomial & Gaussian Distribution
